@@ -1,0 +1,64 @@
+[2023-03-28, 14:20:13.648682] place: INFO : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+[2023-03-28, 14:20:13.648682] place: INFO : Progress    0%: parsing commands ...
+[2023-03-28, 14:20:13.648682] place: INFO : Progress   10%: loading arch library "D:\FDE2021\hw_lib\fdp3p7_arch.xml" ...
+[2023-03-28, 14:20:13.774595] place: INFO : Progress   20%: loading netlist "display_fde_yosys_pack.xml" ...
+[2023-03-28, 14:20:13.774595] place: INFO : Progress   30%: loading constraint "D:\fudan\grade_3\第一学期\FPGA\FDULAB\display.xml" ...
+[2023-03-28, 14:20:13.774595] place: INFO : Effort Level  : 10
+[2023-03-28, 14:20:13.774595] place: INFO : Mode          : Bounding Box
+[2023-03-28, 14:20:13.774595] place: INFO : Design        : "display", resource statistic:
+[2023-03-28, 14:20:13.774595] place: INFO :   * Amount of GCLK: 1
+[2023-03-28, 14:20:13.774595] place: INFO :   * Amount of GCLKIOB: 1
+[2023-03-28, 14:20:13.774595] place: INFO :   * Amount of IOB: 13
+[2023-03-28, 14:20:13.774595] place: INFO :   * Amount of SLICE: 45
+[2023-03-28, 14:20:13.774595] place: INFO :   * Amount of Net: 106
+[2023-03-28, 14:20:13.774595] place: INFO : Device        : "fdp3000k", resource usage:
+[2023-03-28, 14:20:13.774595] place: INFO :   * Proportion of GCLK: 25.00%
+[2023-03-28, 14:20:13.774595] place: INFO :   * Proportion of GCLKIOB: 25.00%
+[2023-03-28, 14:20:13.774595] place: INFO :   * Proportion of IOB: 9.15%
+[2023-03-28, 14:20:13.774595] place: INFO :   * Proportion of SLICE(LUT0): 1.46%
+[2023-03-28, 14:20:13.774595] place: INFO : Progress   50%: build FPGA architecture ...
+[2023-03-28, 14:20:13.806328] place: INFO : Progress   60%: begin to initially place ...
+[2023-03-28, 14:20:13.806328] place: INFO :   * Initial cost = 62.7742
+[2023-03-28, 14:20:13.806328] place: INFO : Progress   70%: begin to perform place iteration ...
+[2023-03-28, 14:20:13.994724] place: INFO :   * After 20 iterations cost = 54.4355
+[2023-03-28, 14:20:14.120414] place: INFO :   * After 40 iterations cost = 34.6452
+[2023-03-28, 14:20:14.230224] place: INFO :   * After 60 iterations cost = 17.0968
+[2023-03-28, 14:20:14.355664] place: INFO :   * After 80 iterations cost = 10.871
+[2023-03-28, 14:20:14.449852] place: INFO :   * After 100 iterations cost = 8.74194
+[2023-03-28, 14:20:14.497161] place: INFO : Progress   80%: begin to perform final place iteration ...
+[2023-03-28, 14:20:14.512788] place: INFO :   * Final cost = 8.14516
+[2023-03-28, 14:20:14.512788] place: INFO : Progress   90%: begin to write placed netlist ...
+[2023-03-28, 14:20:14.512788] place: INFO : Successfully finish placement. Elapsed Time: 1s
+[2023-04-10, 11:35:27.369840] place: INFO : Release 1.0 - Place
+Copyright (c) 2006-2009 FPGA-SoftwareGP.MEKeylab.FDU   All rights reserved.
+[2023-04-10, 11:35:27.369840] place: INFO : Progress    0%: parsing commands ...
+[2023-04-10, 11:35:27.369840] place: INFO : Progress   10%: loading arch library "D:\FDE2021\hw_lib\fdp3p7_arch.xml" ...
+[2023-04-10, 11:35:27.510874] place: INFO : Progress   20%: loading netlist "display_fde_yosys_pack.xml" ...
+[2023-04-10, 11:35:27.510874] place: INFO : Progress   30%: loading constraint "D:\fudan\grade_3\第一学期\FPGA\FDULAB\display.xml" ...
+[2023-04-10, 11:35:27.510874] place: INFO : Effort Level  : 10
+[2023-04-10, 11:35:27.510874] place: INFO : Mode          : Bounding Box
+[2023-04-10, 11:35:27.510874] place: INFO : Design        : "display", resource statistic:
+[2023-04-10, 11:35:27.510874] place: INFO :   * Amount of GCLK: 1
+[2023-04-10, 11:35:27.510874] place: INFO :   * Amount of GCLKIOB: 1
+[2023-04-10, 11:35:27.510874] place: INFO :   * Amount of IOB: 13
+[2023-04-10, 11:35:27.510874] place: INFO :   * Amount of SLICE: 42
+[2023-04-10, 11:35:27.510874] place: INFO :   * Amount of Net: 101
+[2023-04-10, 11:35:27.510874] place: INFO : Device        : "fdp3000k", resource usage:
+[2023-04-10, 11:35:27.510874] place: INFO :   * Proportion of GCLK: 25.00%
+[2023-04-10, 11:35:27.510874] place: INFO :   * Proportion of GCLKIOB: 25.00%
+[2023-04-10, 11:35:27.510874] place: INFO :   * Proportion of IOB: 9.15%
+[2023-04-10, 11:35:27.510874] place: INFO :   * Proportion of SLICE(LUT0): 1.37%
+[2023-04-10, 11:35:27.510874] place: INFO : Progress   50%: build FPGA architecture ...
+[2023-04-10, 11:35:27.526526] place: INFO : Progress   60%: begin to initially place ...
+[2023-04-10, 11:35:27.542152] place: INFO :   * Initial cost = 58.0645
+[2023-04-10, 11:35:27.542152] place: INFO : Progress   70%: begin to perform place iteration ...
+[2023-04-10, 11:35:27.706890] place: INFO :   * After 20 iterations cost = 44.1935
+[2023-04-10, 11:35:27.824783] place: INFO :   * After 40 iterations cost = 32.1774
+[2023-04-10, 11:35:27.934606] place: INFO :   * After 60 iterations cost = 14.8871
+[2023-04-10, 11:35:28.044446] place: INFO :   * After 80 iterations cost = 10
+[2023-04-10, 11:35:28.122986] place: INFO :   * After 100 iterations cost = 7.93548
+[2023-04-10, 11:35:28.169892] place: INFO : Progress   80%: begin to perform final place iteration ...
+[2023-04-10, 11:35:28.169892] place: INFO :   * Final cost = 7.46774
+[2023-04-10, 11:35:28.169892] place: INFO : Progress   90%: begin to write placed netlist ...
+[2023-04-10, 11:35:28.185517] place: INFO : Successfully finish placement. Elapsed Time: 1s
