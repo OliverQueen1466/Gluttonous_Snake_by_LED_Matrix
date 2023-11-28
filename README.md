@@ -10,6 +10,8 @@ The project is to run Gluttonous Snake on FDE develop board. Four button will ct
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline">
   Gluttonous Snake game demo
 </center>
+
+
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on your local machine for development and testing purposes. 
