@@ -3,6 +3,11 @@
 The project is to run Gluttonous Snake on FDE develop board. Four button will ctrl the move of snake on a 16*16 LED matrix and a digital clock is to record the time . The interface is through SMIMS. 
 [video](https://www.youtube.com/watch?v=pZFWq8M31To&ab_channel=oliverttt) shows the interface when running the whole project.
 
+<div style="display:inline-block">
+  <img src="https://github.com/OliverQueen1466/Storage_Image/blob/main/gluttonous/regular.png" alt="image1">
+  <img src="https://github.com/OliverQueen1466/Storage_Image/blob/main/gluttonous/time.png" alt="image2">
+</div>
+
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on your local machine for development and testing purposes. 
