@@ -4,8 +4,8 @@ The project is to run Gluttonous Snake on FDE develop board. Four button will ct
 [video](https://www.youtube.com/watch?v=pZFWq8M31To&ab_channel=oliverttt) shows the interface when running the whole project.
 
 <div style="display:inline-block">
-  <img src="https://github.com/OliverQueen1466/Storage_Image/blob/main/gluttonous/regular.png" alt="image1" width="500">
-  <img src="https://github.com/OliverQueen1466/Storage_Image/blob/main/gluttonous/time.png" alt="image2" width="500">
+  <img src="https://github.com/OliverQueen1466/Storage_Image/blob/main/gluttonous/regular.png" alt="image1" width="500" height="500">
+  <img src="https://github.com/OliverQueen1466/Storage_Image/blob/main/gluttonous/time.png" alt="image2" width="500" height="500">
 </div>
 
 <p align="center">Gluttonous Snake game demo</p>
